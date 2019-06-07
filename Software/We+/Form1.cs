@@ -15,12 +15,59 @@ namespace ProvaLoccioni
     {
 
         Tsk tsk= new Tsk();
-        String msg = tsk.Split();
+        bool portOnOff, taskOnOff;
         public Form1()
         {
-            serial.Text=msg;
+            portOnOff = false;
+            taskOnOff = false;
+            tsk.OpenComPort(portOnOff);
+            tsk.OpenComPort(taskOnOff);
             InitializeComponent();
         }
 
+        private void tmr_Tick(object sender, EventArgs e)
+        {
+            String msg = tsk.Split();
+            lblRes.Text = msg;
+        }
+
+  
+
+        private void clock_Tick(object sender, EventArgs e)
+        {
+            
+                lblClock.Text = DateTime.Now.ToString("HH:mm:ss");
+            
+        }
+
+        private void startStop_Click(object sender, EventArgs e)
+        {
+            portOnOff = !portOnOff;
+            if (portOnOff)
+            {
+                ledOnOFF.BackColor = Color.Green;
+                tsk.OpenComPort(portOnOff);
+            }
+            else
+            {
+                ledOnOFF.BackColor = Color.Red;
+                tsk.OpenComPort(portOnOff);
+            }
+        }
+
+        private void btnTaskOnOFF_Click(object sender, EventArgs e)
+        {
+            taskOnOff = !taskOnOff;
+            if (taskOnOff)
+            {
+                ledTskOnOff.BackColor = Color.Green;
+                tsk.taskEnable(taskOnOff);
+            }
+            else
+            {
+                ledTskOnOff.BackColor = Color.Red;
+                tsk.taskEnable(taskOnOff);
+            }
+        }
     }
 }
