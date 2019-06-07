@@ -11,61 +11,98 @@ namespace ProvaLoccioni
     class Tsk
     {
         SerialPort serial;
-        string tskmsg;
+        public string tskmsg;
         Timer tmrtsk;
         bool isDataRecived;
+        bool taskOnOff;
+        const String STX = "\u0002";
+        const String ETX = "\u0003";
         public Tsk()
         {
             isDataRecived = false;
             tmrtsk = new Timer();
             tmrtsk.Interval = 200;
-            tmrtsk.Enabled = true;
+            tmrtsk.Enabled = false;
+            taskOnOff = false;
             tmrtsk.Elapsed += Tmrtsk_Elapsed;
             serial = new SerialPort("COM2", 9600, Parity.None, 8, StopBits.One);
             serial.DataReceived += Serial_DataReceived;
         }
 
-
-
-        private void Serial_DataReceived(object sender, SerialDataReceivedEventArgs e)
+        //Open close task
+        public void taskEnable(bool onOff)
         {
-            tskmsg = serial.ReadExisting();
-            isDataRecived = true;
-            Split();
-
+            taskOnOff = onOff;
+            if (onOff)
+            {
+                tmrtsk.Enabled = true;
+            }
+            else
+            {
+                tmrtsk.Enabled = false;
+            }
         }
 
-        public void OpenComPort()
+
+
+        //Open close port
+        public void OpenComPort(bool onOff)
         {
-            serial.Open();
-        }
-        public void CloseComPort()
-        {
-            serial.Close();
+            if (onOff)
+            {
+                serial.Open();
+                
+                    tmrtsk.Enabled = true;
+                
+                
+            }
+            else
+            {
+                serial.Close();
+            }
+
         }
 
-        public String Split()
-        {
-            tmrtsk.Enabled = true;
-            String [] spl=tsk.Split("|");
-            if ((  spl[0] == "STX")&&(spl[5] )){
-        }
-            return tskmsg;
-        }
 
+
+
+        //Timer Task send
         private void Tmrtsk_Elapsed(object sender, ElapsedEventArgs e)
         {
             tmrtsk.Enabled = false;
-
             isDataRecived = false;
-            byte Stx = 0x02;
-            byte Etx = 0x03;
-            if (!serial.IsOpen)
-                OpenComPort();
-            serial.Write(Stx + "Giovanni" + Etx);
+            if (serial.IsOpen)
+                serial.Write(STX + "Giovanni" + ETX);
+
+        }
+        //task recive
+        private void Serial_DataReceived(object sender, SerialDataReceivedEventArgs e)
+        {
+            if (taskOnOff)
+            {
+                tskmsg = serial.ReadExisting();
+                isDataRecived = true;
+                Split();
+            }
+            else
+            {
+                serial.ReadExisting();
+            }
         }
 
+        // split
+        public String Split()
+        {
+            if (isDataRecived)
+            {
+                tmrtsk.Enabled = true;
+                // String [] spl=tskmsg.Split('|');
+                //  if ((  spl[0] == STX)&&(spl[5]==ETX )){
 
-
+                // }
+                
+            }
+            return tskmsg;
+        }
     }
 }
