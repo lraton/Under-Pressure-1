@@ -25,6 +25,8 @@ namespace ProvaLoccioni
             InitializeComponent();
         }
 
+
+        //Print the message
         private void tmr_Tick(object sender, EventArgs e)
         {
             String msg = tsk.Split();
@@ -32,7 +34,7 @@ namespace ProvaLoccioni
         }
 
   
-
+        //clock
         private void clock_Tick(object sender, EventArgs e)
         {
             
@@ -40,6 +42,7 @@ namespace ProvaLoccioni
             
         }
 
+        //Open the COM port
         private void startStop_Click(object sender, EventArgs e)
         {
             portOnOff = !portOnOff;
@@ -55,6 +58,7 @@ namespace ProvaLoccioni
             }
         }
 
+        //Start stop task 
         private void btnTaskOnOFF_Click(object sender, EventArgs e)
         {
             taskOnOff = !taskOnOff;
