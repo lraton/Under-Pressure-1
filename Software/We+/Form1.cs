@@ -54,7 +54,10 @@ namespace ProvaLoccioni
                 tsk.OpenComPort(portOnOff);
             }
         }
+        public void boh()
+        {
 
+        }
         private void btnTaskOnOFF_Click(object sender, EventArgs e)
         {
             taskOnOff = !taskOnOff;
