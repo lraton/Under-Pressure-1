@@ -1,0 +1,10 @@
+C:\Users\pippo\Desktop\ProvaLoccioni\bin\Debug\ProvaLoccioni.exe.config
+C:\Users\pippo\Desktop\ProvaLoccioni\bin\Debug\ProvaLoccioni.exe
+C:\Users\pippo\Desktop\ProvaLoccioni\bin\Debug\ProvaLoccioni.pdb
+C:\Users\pippo\Desktop\ProvaLoccioni\obj\Debug\We+.csprojAssemblyReference.cache
+C:\Users\pippo\Desktop\ProvaLoccioni\obj\Debug\ProvaLoccioni.Form1.resources
+C:\Users\pippo\Desktop\ProvaLoccioni\obj\Debug\ProvaLoccioni.Properties.Resources.resources
+C:\Users\pippo\Desktop\ProvaLoccioni\obj\Debug\We+.csproj.GenerateResource.cache
+C:\Users\pippo\Desktop\ProvaLoccioni\obj\Debug\We+.csproj.CoreCompileInputs.cache
+C:\Users\pippo\Desktop\ProvaLoccioni\obj\Debug\ProvaLoccioni.exe
+C:\Users\pippo\Desktop\ProvaLoccioni\obj\Debug\ProvaLoccioni.pdb
