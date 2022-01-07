@@ -1,0 +1,70 @@
+D:\CloudStation\Nicolas\Loccioni\Sw Macchina\InterfacciaUtente\bin\Debug\InterfacciaUtente.exe.config
+D:\CloudStation\Nicolas\Loccioni\Sw Macchina\InterfacciaUtente\bin\Debug\InterfacciaUtente.exe
+D:\CloudStation\Nicolas\Loccioni\Sw Macchina\InterfacciaUtente\bin\Debug\InterfacciaUtente.pdb
+D:\CloudStation\Nicolas\Loccioni\Sw Macchina\InterfacciaUtente\obj\Debug\InterfacciaUtente.csprojAssemblyReference.cache
+D:\CloudStation\Nicolas\Loccioni\Sw Macchina\InterfacciaUtente\obj\Debug\InterfacciaUtente.Properties.Resources.resources
+D:\CloudStation\Nicolas\Loccioni\Sw Macchina\InterfacciaUtente\obj\Debug\InterfacciaUtente.csproj.GenerateResource.cache
+D:\CloudStation\Nicolas\Loccioni\Sw Macchina\InterfacciaUtente\obj\Debug\InterfacciaUtente.csproj.CoreCompileInputs.cache
+D:\CloudStation\Nicolas\Loccioni\Sw Macchina\InterfacciaUtente\obj\Debug\InterfacciaUtente.exe
+D:\CloudStation\Nicolas\Loccioni\Sw Macchina\InterfacciaUtente\obj\Debug\InterfacciaUtente.pdb
+D:\CloudStation\Nicolas\Loccioni\Sw Macchina\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormAutomatic.resources
+D:\CloudStation\Nicolas\Loccioni\Sw Macchina\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormMain.resources
+D:\CloudStation\Nicolas\Loccioni\Sw Macchina\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormManual.resources
+D:\CloudStation\Nicolas\Loccioni\Sw Macchina\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormDiagnostic.resources
+C:\Users\aless\Desktop\InterfacciaUtente\bin\Debug\InterfacciaUtente.exe.config
+C:\Users\aless\Desktop\InterfacciaUtente\bin\Debug\InterfacciaUtente.exe
+C:\Users\aless\Desktop\InterfacciaUtente\bin\Debug\InterfacciaUtente.pdb
+C:\Users\aless\Desktop\InterfacciaUtente\obj\Debug\InterfacciaUtente.csprojAssemblyReference.cache
+C:\Users\aless\Desktop\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormAutomatic.resources
+C:\Users\aless\Desktop\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormDiagnostic.resources
+C:\Users\aless\Desktop\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormMain.resources
+C:\Users\aless\Desktop\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormManual.resources
+C:\Users\aless\Desktop\InterfacciaUtente\obj\Debug\InterfacciaUtente.Properties.Resources.resources
+C:\Users\aless\Desktop\InterfacciaUtente\obj\Debug\InterfacciaUtente.csproj.GenerateResource.cache
+C:\Users\aless\Desktop\InterfacciaUtente\obj\Debug\InterfacciaUtente.csproj.CoreCompileInputs.cache
+C:\Users\aless\Desktop\InterfacciaUtente\obj\Debug\InterfacciaUtente.exe
+C:\Users\aless\Desktop\InterfacciaUtente\obj\Debug\InterfacciaUtente.pdb
+C:\Users\pippo\Desktop\InterfacciaUtente\bin\Debug\InterfacciaUtente.exe.config
+C:\Users\pippo\Desktop\InterfacciaUtente\bin\Debug\InterfacciaUtente.exe
+C:\Users\pippo\Desktop\InterfacciaUtente\bin\Debug\InterfacciaUtente.pdb
+C:\Users\pippo\Desktop\InterfacciaUtente\obj\Debug\InterfacciaUtente.csprojAssemblyReference.cache
+C:\Users\pippo\Desktop\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormAutomatic.resources
+C:\Users\pippo\Desktop\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormDiagnostic.resources
+C:\Users\pippo\Desktop\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormMain.resources
+C:\Users\pippo\Desktop\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormManual.resources
+C:\Users\pippo\Desktop\InterfacciaUtente\obj\Debug\InterfacciaUtente.Properties.Resources.resources
+C:\Users\pippo\Desktop\InterfacciaUtente\obj\Debug\InterfacciaUtente.csproj.GenerateResource.cache
+C:\Users\pippo\Desktop\InterfacciaUtente\obj\Debug\InterfacciaUtente.csproj.CoreCompileInputs.cache
+C:\Users\pippo\Desktop\InterfacciaUtente\obj\Debug\InterfacciaUtente.exe
+C:\Users\pippo\Desktop\InterfacciaUtente\obj\Debug\InterfacciaUtente.pdb
+C:\Users\pippo\Desktop\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormError.resources
+C:\Users\pippo\Desktop\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormEmergency.resources
+C:\Users\alternanza\Desktop\InterfacciaUtente\InterfacciaUtente\bin\Debug\InterfacciaUtente.exe.config
+C:\Users\alternanza\Desktop\InterfacciaUtente\InterfacciaUtente\bin\Debug\InterfacciaUtente.exe
+C:\Users\alternanza\Desktop\InterfacciaUtente\InterfacciaUtente\bin\Debug\InterfacciaUtente.pdb
+C:\Users\alternanza\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormEmergency.resources
+C:\Users\alternanza\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormError.resources
+C:\Users\alternanza\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormAutomatic.resources
+C:\Users\alternanza\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormMain.resources
+C:\Users\alternanza\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormManual.resources
+C:\Users\alternanza\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.Properties.Resources.resources
+C:\Users\alternanza\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.csproj.GenerateResource.Cache
+C:\Users\alternanza\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.csproj.CoreCompileInputs.cache
+C:\Users\alternanza\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.exe
+C:\Users\alternanza\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.pdb
+C:\Users\alternanza\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormEmergency.resources
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormError.resources
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormAutomatic.resources
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormMain.resources
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormManual.resources
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.Properties.Resources.resources
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.csproj.GenerateResource.Cache
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.exe
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.pdb
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\bin\Debug\InterfacciaUtente.exe.config
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\bin\Debug\InterfacciaUtente.exe
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\bin\Debug\InterfacciaUtente.pdb
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormTestPlan.resources

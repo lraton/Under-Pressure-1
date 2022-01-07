@@ -1,0 +1,45 @@
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\bin\Debug\InterfacciaUtente.exe.config
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\bin\Debug\InterfacciaUtente.exe
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\bin\Debug\InterfacciaUtente.pdb
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\UnderPressure1.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormEmergency.resources
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormError.resources
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormAutomatic.resources
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormMain.resources
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormManual.resources
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.FormTestPlan.resources
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.Properties.Resources.resources
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\UnderPressure1.csproj.GenerateResource.Cache
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\UnderPressure1.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.exe
+C:\Users\Diego\Desktop\InterfacciaUtente\InterfacciaUtente\obj\Debug\InterfacciaUtente.pdb
+C:\Users\Diego\Desktop\Under Pressure One\bin\Debug\InterfacciaUtente.exe.config
+C:\Users\Diego\Desktop\Under Pressure One\bin\Debug\InterfacciaUtente.exe
+C:\Users\Diego\Desktop\Under Pressure One\bin\Debug\InterfacciaUtente.pdb
+C:\Users\Diego\Desktop\Under Pressure One\obj\Debug\UnderPressure1.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Under Pressure One\obj\Debug\InterfacciaUtente.FormEmergency.resources
+C:\Users\Diego\Desktop\Under Pressure One\obj\Debug\InterfacciaUtente.FormError.resources
+C:\Users\Diego\Desktop\Under Pressure One\obj\Debug\InterfacciaUtente.FormAutomatic.resources
+C:\Users\Diego\Desktop\Under Pressure One\obj\Debug\InterfacciaUtente.FormMain.resources
+C:\Users\Diego\Desktop\Under Pressure One\obj\Debug\InterfacciaUtente.FormManual.resources
+C:\Users\Diego\Desktop\Under Pressure One\obj\Debug\InterfacciaUtente.FormTestPlan.resources
+C:\Users\Diego\Desktop\Under Pressure One\obj\Debug\InterfacciaUtente.Properties.Resources.resources
+C:\Users\Diego\Desktop\Under Pressure One\obj\Debug\UnderPressure1.csproj.GenerateResource.Cache
+C:\Users\Diego\Desktop\Under Pressure One\obj\Debug\UnderPressure1.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Under Pressure One\obj\Debug\InterfacciaUtente.exe
+C:\Users\Diego\Desktop\Under Pressure One\obj\Debug\InterfacciaUtente.pdb
+C:\Users\Filippo\Desktop\Under Pressure One\bin\Debug\InterfacciaUtente.exe.config
+C:\Users\Filippo\Desktop\Under Pressure One\bin\Debug\InterfacciaUtente.exe
+C:\Users\Filippo\Desktop\Under Pressure One\bin\Debug\InterfacciaUtente.pdb
+C:\Users\Filippo\Desktop\Under Pressure One\obj\Debug\UnderPressure1.csprojResolveAssemblyReference.cache
+C:\Users\Filippo\Desktop\Under Pressure One\obj\Debug\InterfacciaUtente.FormEmergency.resources
+C:\Users\Filippo\Desktop\Under Pressure One\obj\Debug\InterfacciaUtente.FormError.resources
+C:\Users\Filippo\Desktop\Under Pressure One\obj\Debug\InterfacciaUtente.FormAutomatic.resources
+C:\Users\Filippo\Desktop\Under Pressure One\obj\Debug\InterfacciaUtente.FormMain.resources
+C:\Users\Filippo\Desktop\Under Pressure One\obj\Debug\InterfacciaUtente.FormManual.resources
+C:\Users\Filippo\Desktop\Under Pressure One\obj\Debug\InterfacciaUtente.FormTestPlan.resources
+C:\Users\Filippo\Desktop\Under Pressure One\obj\Debug\InterfacciaUtente.Properties.Resources.resources
+C:\Users\Filippo\Desktop\Under Pressure One\obj\Debug\UnderPressure1.csproj.GenerateResource.Cache
+C:\Users\Filippo\Desktop\Under Pressure One\obj\Debug\UnderPressure1.csproj.CoreCompileInputs.cache
+C:\Users\Filippo\Desktop\Under Pressure One\obj\Debug\InterfacciaUtente.exe
+C:\Users\Filippo\Desktop\Under Pressure One\obj\Debug\InterfacciaUtente.pdb
